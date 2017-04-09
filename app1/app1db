@@ -1,0 +1,3 @@
+url=mysql:jdbc://10.93.126.235:3306/test
+username=root
+password=password
