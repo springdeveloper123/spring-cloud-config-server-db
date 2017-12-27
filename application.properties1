@@ -1,0 +1,4 @@
+driverClassName=234
+url=mysql:jdbc://localhost:3306/test
+username=root
+password=password
